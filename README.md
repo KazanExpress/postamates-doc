@@ -109,7 +109,7 @@
 
     ```
     Запрос:
-        method: GET
+        method: POST
         url: /postamate/check-courier
         headers:
             * Authorization: token
